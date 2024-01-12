@@ -1,0 +1,48 @@
+.white {
+    background-color: rgb(238, 238, 238);
+    transition: 0.3s;
+    padding: 4%;
+}
+.hw1 {
+    color: rgb(71, 71, 71);
+    opacity: 90%;
+    transition: 0.2s;
+
+}
+.hw2 {
+    color: rgb(71, 71, 71);
+    word-break: break-all;
+    opacity: 50%;
+    transition: 0.2s;
+
+}
+.hw2:hover {
+    color: rgb(71, 71, 71);
+    opacity: 90%;
+    word-break: break-all;
+    transition: 0.2s;
+
+}
+.body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    width: 40%;
+    transition: 0.5s;
+    border: 5px solid rgb(238, 238, 238);
+    text-align: center; 
+       border-radius: 10px;
+    border-top: none;
+    border-bottom: none;
+}
+.box:hover {
+    width: 40%;
+    border: 5px solid rgb(147, 194, 147);
+    transition: 0.5s;
+    text-align: center;    
+    border-radius: 10px;
+    border-top: none;
+    border-bottom: none;
+}
