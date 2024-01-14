@@ -17,7 +17,7 @@ function Audio() {
                         <h1 className={s.hw1}>**** **********</h1>
                     </div>
                     <div>
-                    <h1 className={s.hw2}>I</h1>
+                    <h1 className={s.hw2}>1</h1>
                     </div>
                     <div>
                         <audio controls src={mp3} className={s.audio} />
@@ -45,7 +45,7 @@ function Audio() {
                         <audio controls src={mp3} className={s.audio} />
                     </div>
                     <div>
-                    <h1 className={s.hw2}>II</h1>
+                    <h1 className={s.hw2}>2</h1>
                     </div>
                     <div>
                         <h1 className={s.hw1}>**** **********</h1>
@@ -67,7 +67,7 @@ function Audio() {
                         <h1 className={s.hw1}>**** **********</h1>
                     </div>
                     <div>
-                    <h1 className={s.hw2}>III</h1>
+                    <h1 className={s.hw2}>3</h1>
                     </div>
                     <div>
                         <audio controls src={mp3} className={s.audio} />
@@ -95,7 +95,7 @@ function Audio() {
                         <audio controls src={mp3} className={s.audio} />
                     </div>
                     <div>
-                    <h1 className={s.hw2}>IV</h1>
+                    <h1 className={s.hw2}>4</h1>
                     </div>
                     <div>
                         <h1 className={s.hw1}>**** **********</h1>
@@ -117,7 +117,7 @@ function Audio() {
                         <h1 className={s.hw1}>**** **********</h1>
                     </div>
                     <div>
-                    <h1 className={s.hw2}>V</h1>
+                    <h1 className={s.hw2}>5</h1>
                     </div>
                     <div>
                         <audio controls src={mp3} className={s.audio} />
@@ -145,7 +145,7 @@ function Audio() {
                         <audio controls src={mp3} className={s.audio} />
                     </div>
                     <div>
-                    <h1 className={s.hw2}>VI</h1>
+                    <h1 className={s.hw2}>6</h1>
                     </div>
                     <div>
                         <h1 className={s.hw1}>**** **********</h1>
@@ -167,7 +167,7 @@ function Audio() {
                         <h1 className={s.hw1}>**** **********</h1>
                     </div>
                     <div>
-                    <h1 className={s.hw2}>VII</h1>
+                    <h1 className={s.hw2}>7</h1>
                     </div>
                     <div>
                         <audio controls src={mp3} className={s.audio} />
@@ -195,7 +195,7 @@ function Audio() {
                         <audio controls src={mp3} className={s.audio} />
                     </div>
                     <div>
-                    <h1 className={s.hw2}>VIII</h1>
+                    <h1 className={s.hw2}>8</h1>
                     </div>
                     <div>
                         <h1 className={s.hw1}>**** **********</h1>
