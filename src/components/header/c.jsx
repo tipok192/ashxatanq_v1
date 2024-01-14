@@ -40,14 +40,13 @@ function Header() {
                     </div>
                     <Link to="/"><button className={s.btnw}>Գլխ․ էջ</button></Link>
                     <Link to="/xndir"><button className={s.btnw}>Ինչու՞ է խնդիր</button></Link>
-                    <Link to="/lucum"><button className={s.btnw}>Լուծման ուղղիներ</button></Link>
-                    <Link to="/audio"><button className={s.btnw}>???</button></Link>
+                    <Link to="/lucum"><button className={s.btnw}>Լուծման եղանակներ</button></Link>
+                    <Link to="/audio"><button className={s.btnw}>Հարցազրույց</button></Link>
                     <div className={s.imgBox2}>
                         <img className={s.img} src={img2} alt="=-" />
                     </div>
                 </div>
             </div>
-
         </div>
     );
 }
